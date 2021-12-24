@@ -4,5 +4,5 @@
 * Then it chooses and suggests classes based on their preferences and the difficulty of the class it suggests will be determined by the background information the user gives.
 * It then allows the user to choose classes from the suggestion and after the selection is over, it shows the schedule of the classes in a grid and will point out classes which clash!
 
-P.S This program is Bennington College specific
+P.S This program is Bennington College specific and was done as my final project to my first CS class
 
